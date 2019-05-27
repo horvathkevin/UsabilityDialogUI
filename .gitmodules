@@ -1,0 +1,6 @@
+[submodule "StandardUI"]
+	path = StandardUI
+	url = https://github.com/horvathkevin/BreweryAppStandardUI.git
+[submodule "DialogUI"]
+	path = DialogUI
+	url = https://github.com/horvathkevin/BreweryAppDialogUI.git

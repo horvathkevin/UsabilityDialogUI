@@ -1,0 +1,34 @@
+Aufgabe 1;;
+;;
+UI Variante;Mittelwert Standard;Mittelwert dialogbasiert
+Anzahl Aktionen;8.3;8.0
+Bearbeitungszeit;34.70 s;46.14 s
+Fehlerrate;53.33 %;30.44 %
+;;
+Aufgabe 2;;
+;;
+UI Variante;Mittelwert Standard;Mittelwert dialogbasiert
+Anzahl Aktionen;5.3;8.3
+Bearbeitungszeit;25.65 s;44.51 s
+Fehlerrate;18.90 %;28.03 %
+;;
+Aufgabe 3;;
+;;
+UI Variante;Mittelwert Standard;Mittelwert dialogbasiert
+Anzahl Aktionen;9.8;7.7
+Bearbeitungszeit;28.73 s;43.74 s
+Fehlerrate;63.95 %;24.03 %
+;;
+Aufgabe 4;;
+;;
+UI Variante;Mittelwert Standard;Mittelwert dialogbasiert
+Anzahl Aktionen;10.5;11.9
+Bearbeitungszeit;33.55 s;44.47 s
+Fehlerrate;32.90 %;22.13 %
+;;
+Aufgabe 5;;
+;;
+UI Variante;Mittelwert Standard;Mittelwert dialogbasiert
+Anzahl Aktionen;11.1;11.5
+Bearbeitungszeit;33.19 s;47.31 s
+Fehlerrate;50.09 %;36.36 %

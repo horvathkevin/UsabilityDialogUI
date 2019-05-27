@@ -1,0 +1,268 @@
+[
+  {
+    "_countActionsUser": 9,
+    "_countActionsNecessary": 3,
+    "_startTime": 1557746495000,
+    "_endTime": 1557746510507,
+    "_duration": 15.507,
+    "_errorRate": 66.66666666666667,
+    "_actions": [
+      {
+        "route": "/root/(content:home)",
+        "action": "showCategories",
+        "timeDelta": 2799,
+        "timestamp": 1557746497799
+      },
+      {
+        "route": "/root/(content:categories)",
+        "action": "showAllBeers",
+        "timeDelta": 1065,
+        "timestamp": 1557746498864
+      },
+      {
+        "route": "/root/(content:beersByName/)",
+        "action": "beersViewNextPage",
+        "timeDelta": 2946,
+        "timestamp": 1557746501810
+      },
+      {
+        "route": "/root/(content:beersByName/)",
+        "action": "beerListScroll",
+        "timeDelta": 1223,
+        "timestamp": 1557746503033
+      },
+      {
+        "route": "/root/(content:beersByName/)",
+        "action": "back",
+        "timeDelta": 1048,
+        "timestamp": 1557746504081
+      },
+      {
+        "route": "/root/(content:categories)",
+        "action": "scrollCategoryView",
+        "timeDelta": 2174,
+        "timestamp": 1557746506255
+      },
+      {
+        "route": "/root/(content:categories)",
+        "action": "showStylesForCategory",
+        "timeDelta": 1880,
+        "timestamp": 1557746508135
+      },
+      {
+        "route": "/root/(content:categories)",
+        "action": "showStylesForCategory",
+        "timeDelta": 1337,
+        "timestamp": 1557746509472
+      },
+      {
+        "route": "/root/(content:styles/5)",
+        "action": "showAllBeersForCategory",
+        "timeDelta": 953,
+        "timestamp": 1557746510425
+      }
+    ]
+  },
+  {
+    "_countActionsUser": 4,
+    "_countActionsNecessary": 4,
+    "_startTime": 1557746530216,
+    "_endTime": 1557746548562,
+    "_duration": 18.346,
+    "_errorRate": 0,
+    "_actions": [
+      {
+        "route": "/root/(content:home)",
+        "action": "searchBarFocus",
+        "timeDelta": 1560,
+        "timestamp": 1557746531776
+      },
+      {
+        "route": "/root/(content:home)",
+        "action": "searchBarTextChange",
+        "timeDelta": 11339,
+        "timestamp": 1557746543115
+      },
+      {
+        "route": "/root/(content:home)",
+        "action": "search",
+        "timeDelta": 913,
+        "timestamp": 1557746544028
+      },
+      {
+        "route": "/root/(content:beersByName/golden%20ipa)",
+        "action": "openBeerDetails",
+        "timeDelta": 4336,
+        "timestamp": 1557746548364
+      }
+    ]
+  },
+  {
+    "_countActionsUser": 5,
+    "_countActionsNecessary": 3,
+    "_startTime": 1557746594923,
+    "_endTime": 1557746612855,
+    "_duration": 17.932,
+    "_errorRate": 40,
+    "_actions": [
+      {
+        "route": "/root/(content:home)",
+        "action": "showCategories",
+        "timeDelta": 1365,
+        "timestamp": 1557746596288
+      },
+      {
+        "route": "/root/(content:categories)",
+        "action": "scrollCategoryView",
+        "timeDelta": 2184,
+        "timestamp": 1557746598472
+      },
+      {
+        "route": "/root/(content:categories)",
+        "action": "scrollCategoryView",
+        "timeDelta": 1393,
+        "timestamp": 1557746599865
+      },
+      {
+        "route": "/root/(content:categories)",
+        "action": "showStylesForCategory",
+        "timeDelta": 9076,
+        "timestamp": 1557746608941
+      },
+      {
+        "route": "/root/(content:styles/2)",
+        "action": "showStylesForCategory",
+        "timeDelta": 3841,
+        "timestamp": 1557746612782
+      }
+    ]
+  },
+  {
+    "_countActionsUser": 7,
+    "_countActionsNecessary": 6,
+    "_startTime": 1557747478139,
+    "_endTime": 1557747501671,
+    "_duration": 23.532,
+    "_errorRate": 14.28571428571429,
+    "_actions": [
+      {
+        "route": "/root/(content:home)",
+        "action": "showCategories",
+        "timeDelta": 2084,
+        "timestamp": 1557747480223
+      },
+      {
+        "route": "/root/(content:categories)",
+        "action": "showStylesForCategory",
+        "timeDelta": 4100,
+        "timestamp": 1557747484323
+      },
+      {
+        "route": "/root/(content:styles/3)",
+        "action": "scroll",
+        "timeDelta": 7155,
+        "timestamp": 1557747491478
+      },
+      {
+        "route": "/root/(content:styles/3)",
+        "action": "showAllBeersForCategory",
+        "timeDelta": 2666,
+        "timestamp": 1557747494144
+      },
+      {
+        "route": "/root/(content:beersByCategory/3)",
+        "action": "showFilters",
+        "timeDelta": 1743,
+        "timestamp": 1557747495887
+      },
+      {
+        "route": "/root/(content:filterOverview)",
+        "action": "filterOptionSelection",
+        "timeDelta": 4102,
+        "timestamp": 1557747499989
+      },
+      {
+        "route": "/root/(content:filterPrice)",
+        "action": "filterPriceFilterSelection",
+        "timeDelta": 1426,
+        "timestamp": 1557747501415
+      }
+    ]
+  },
+  {
+    "_countActionsUser": 11,
+    "_countActionsNecessary": 5,
+    "_startTime": 1557747507193,
+    "_endTime": 1557747546023,
+    "_duration": 38.83,
+    "_errorRate": 54.54545454545454,
+    "_actions": [
+      {
+        "route": "/root/(content:home)",
+        "action": "showCategories",
+        "timeDelta": 5150,
+        "timestamp": 1557747512343
+      },
+      {
+        "route": "/root/(content:categories)",
+        "action": "scrollCategoryView",
+        "timeDelta": 1107,
+        "timestamp": 1557747513450
+      },
+      {
+        "route": "/root/(content:categories)",
+        "action": "scrollCategoryView",
+        "timeDelta": 1648,
+        "timestamp": 1557747515098
+      },
+      {
+        "route": "/root/(content:categories)",
+        "action": "showStylesForCategory",
+        "timeDelta": 2568,
+        "timestamp": 1557747517666
+      },
+      {
+        "route": "/root/(content:styles/8)",
+        "action": "scroll",
+        "timeDelta": 3344,
+        "timestamp": 1557747521010
+      },
+      {
+        "route": "/root/(content:styles/8)",
+        "action": "showStylesForCategory",
+        "timeDelta": 1466,
+        "timestamp": 1557747522476
+      },
+      {
+        "route": "/root/(content:styles/8)",
+        "action": "showStylesForCategory",
+        "timeDelta": 3409,
+        "timestamp": 1557747525885
+      },
+      {
+        "route": "/root/(content:beersByStyle/98)",
+        "action": "showFilters",
+        "timeDelta": 1528,
+        "timestamp": 1557747527413
+      },
+      {
+        "route": "/root/(content:filterOverview)",
+        "action": "sortOrderSelection",
+        "timeDelta": 16109,
+        "timestamp": 1557747543522
+      },
+      {
+        "route": "/root/(content:beersByStyle/98)",
+        "action": "showFilters",
+        "timeDelta": 1602,
+        "timestamp": 1557747545124
+      },
+      {
+        "route": "/root/(content:filterOverview)",
+        "action": "sortOrderSelection",
+        "timeDelta": 784,
+        "timestamp": 1557747545908
+      }
+    ]
+  }
+]
